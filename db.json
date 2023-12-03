@@ -1,0 +1,571 @@
+{
+  "livingRoom":[
+    {
+      "id":1,
+      "category":"Living Rooms",
+      "name":"Albert s-2022",
+      "desc":"American model - local manufacture Manual mechan ism Rust-resistant stainless steel springs Treated nubuck leather fabric - washable Five years warranty.",
+      "price":50900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/albert-2-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/albert-3-scaled-1-600x720.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/albert-1-scaled-1-600x720.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/albert-2-scaled-1-600x720.jpg"
+      ]
+    },
+    {
+      "id":2,
+      "category":"Living Rooms",
+      "name":"Alice s-5278",
+      "desc":"American model - local manufacture Manual mechan ism Rust-resistant stainless steel springs Treated nubuck leather fabric - washable Five years warranty.",
+      "price":65400,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/L-shape-Alice-S-5278-Darg-Gray-1-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/L-shape-Alice-S-5278-Darg-Gray-8-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/L-shape-Alice-S-5278-Darg-Gray-1-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/L-shape-Alice-S-5278-Darg-Gray-9-scaled-1-600x720.jpg"
+      ]
+    },
+    {
+      "id":3,
+      "category":"Living Rooms",
+      "name":"Antonio egy s-012",
+      "desc":"American model - local manufacture Manual mechan ism Rust-resistant stainless steel springs Treated nubuck leather fabric - washable Five years warranty.",
+      "price":48900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/ZZZ_3026-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/ZZZ_3026-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/ZZZ_3035-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/ZZZ_3046-scaled-1.jpg"
+      ]
+    },
+    {
+      "id":4,
+      "category":"Living Rooms",
+      "name":"Athina",
+      "desc":"American model - local manufacture Manual mechan ism Rust-resistant stainless steel springs Treated nubuck leather fabric - washable Five years warranty.",
+      "price":77900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/athina-3-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/athina-1-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/athina-2-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/athina-3-scaled-1.jpg"
+      ]
+    },
+    {
+      "id":5,
+      "category":"Living Rooms",
+      "name":"Athina D-003 sofa only",
+      "desc":"American model - local manufacture Manual mechan ism Rust-resistant stainless steel springs Treated nubuck leather fabric - washable Five years warranty.",
+      "price":48900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/athina-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/athina-1-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/athina-2-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/athina-3-scaled-1.jpg"
+      ]
+    },
+    {
+      "id":6,
+      "category":"Living Rooms",
+      "name":"Audi",
+      "desc":"American model - local manufacture Manual mechan ism Rust-resistant stainless steel springs Treated nubuck leather fabric - washable Five years warranty.",
+      "price":90800,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/audi-2-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/audi-4-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/audi-2-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/audi-3-scaled-1.jpg"
+      ]
+    },
+    {
+      "id":7,
+      "category":"Living Rooms",
+      "name":"Audi",
+      "desc":"American model - local manufacture Manual mechan ism Rust-resistant stainless steel springs Treated nubuck leather fabric - washable Five years warranty.",
+      "price":60800,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/audi-2-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/audi-4-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/audi-2-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/audi-3-scaled-1.jpg"
+      ]
+    },
+    {
+      "id":8,
+      "category":"Living Rooms",
+      "name":"Audi",
+      "desc":"American model - local manufacture Manual mechan ism Rust-resistant stainless steel springs Treated nubuck leather fabric - washable Five years warranty.",
+      "price":30800,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/audi-2-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/audi-4-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/audi-2-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/audi-3-scaled-1.jpg"
+      ]
+    },
+    {
+      "id":9,
+      "category":"Living Rooms",
+      "name":"Bella eg-2023",
+      "desc":"American model - local manufacture Manual mechan ism Rust-resistant stainless steel springs Treated nubuck leather fabric - washable Five years warranty.",
+      "price":90800,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/11/bella-2-scaled.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/11/bella-7-scaled.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/11/bella-6-scaled.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/11/bella-3-scaled.jpg"
+      ]
+    },
+    {
+      "id":10,
+      "category":"Living Rooms",
+      "name":"Creek Blue LoveSeat",
+      "desc":"American model - local manufacture Manual mechan ism Rust-resistant stainless steel springs Treated nubuck leather fabric - washable Five years warranty.",
+      "price":119900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Picture2.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/download-1-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Picture2.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/download-2-1.jpg"
+      ]
+    }
+  ],
+  "bedrooms":[
+    {
+      "id":1,
+      "category":"bedrooms",
+      "name":"3D Bed Room",
+      "desc":"The menus are made of beech wood and the countertops are natural 20-year warranty on wood The hinges and connectors have a five-year warranty",
+      "price":101900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/3D-5021-2.jpeg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/3D-5021-2.jpeg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/3D-5021-1.jpeg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/3D-5021-6.jpeg"
+      ]
+    },
+    {
+      "id":2,
+      "category":"bedrooms",
+      "name":"Abatchi",
+      "desc":"The menus are made of beech wood and the countertops are natural 20-year warranty on wood The hinges and connectors have a five-year warranty",
+      "price":83900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/اباتشي-4-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/اباتشي-1-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/اباتشي-3-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/اباتشي-2-scaled-1.jpg"
+      ]
+    },
+    {
+      "id":3,
+      "category":"bedrooms",
+      "name":"Arabisk",
+      "desc":"The menus are made of beech wood and the countertops are natural 20-year warranty on wood The hinges and connectors have a five-year warranty",
+      "price":110000,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/اباتشي-4-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/اباتشي-1-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/اباتشي-3-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/اباتشي-2-scaled-1.jpg"
+      ]
+    },
+    {
+      "id":4,
+      "category":"bedrooms",
+      "name":"Eight",
+      "desc":"The menus are made of beech wood and the countertops are natural 20-year warranty on wood The hinges and connectors have a five-year warranty",
+      "price":142900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/bed-room-Eight-23-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/bed-room-Eight-23-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Bed-Room-Eight-8-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/bed-room-Eight-21-scaled-1.jpg"
+      ]
+    },
+    {
+      "id":5,
+      "category":"bedrooms",
+      "name":"Genwa",
+      "desc":"The menus are made of beech wood and the countertops are natural 20-year warranty on wood The hinges and connectors have a five-year warranty",
+      "price":118900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Genwa-6-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Genwa-6-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Genwa-1-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Genwa-4-scaled-1.jpg"
+      ]
+    },
+    {
+      "id":6,
+      "category":"bedrooms",
+      "name":"Colombia",
+      "desc":"The menus are made of beech wood and the countertops are natural 20-year warranty on wood The hinges and connectors have a five-year warranty",
+      "price":119540,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Colombia-K-Bedroom-01-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Colombia-K-Bedroom7-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Colombia-K-Bedroom5-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Colombia-K-Bedroom4-scaled-1.jpg"
+      ]
+    },
+    {
+      "id":7,
+      "category":"bedrooms",
+      "name":"Imperial",
+      "desc":"The menus are made of beech wood and the countertops are natural 20-year warranty on wood The hinges and connectors have a five-year warranty",
+      "price":123900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/0dbee77c-1220-43a8-8db6-8b807f6554fb.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/2ebd859c-91a3-429d-adca-60936cae2298.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/0dbee77c-1220-43a8-8db6-8b807f6554fb.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/c1d205be-a4e4-42bf-b520-2979260a3363.jpg"
+      ]
+    },
+    {
+      "id":8,
+      "category":"bedrooms",
+      "name":"Julit",
+      "desc":"The menus are made of beech wood and the countertops are natural 20-year warranty on wood The hinges and connectors have a five-year warranty",
+      "price":92900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/IMG_001-0-copy-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/IMG_001-0-copy-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/IMG_0009-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/IMG_0004-2-scaled-1.jpg"
+      ]
+    },
+    {
+      "id":9,
+      "category":"bedrooms",
+      "name":"Napoli",
+      "desc":"The menus are made of beech wood and the countertops are natural 20-year warranty on wood The hinges and connectors have a five-year warranty",
+      "price":123900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/napoly-6-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/napoly-6-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/IMG_0009-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/napoly-1-scaled-1.jpg"
+      ]
+    },
+    {
+      "id":10,
+      "category":"bedrooms",
+      "name":"Tobacco",
+      "desc":"The menus are made of beech wood and the countertops are natural 20-year warranty on wood The hinges and connectors have a five-year warranty",
+      "price":110900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/tobacco-10-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/tobacco-2-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/tobacco-3-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/tobacco-9-scaled-1.jpg"
+      ]
+    }
+
+  ],
+  "dinnigRoom":[
+    {
+      "id":1,
+      "category":"Dinnig Room",
+      "name":"3D",
+      "desc":"Enjoy maximum levels of comfort with our sleek and modern grey bedroom set. The padded headboard adds a touch of irresistible warmth and hominess to the bed.",
+      "price":108900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/eb4437f8-66b4-47c5-8f33-6a0e146c8fa2.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/855772de-cfea-4bb8-a794-ab06523e43c4.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/35304018-22c5-4ba4-a70a-f0e9f5ad023b.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/c5fb5c04-0c33-4634-8c84-f11f58bfa173.jpg"
+      ]
+    },
+    {
+      "id":2,
+      "category":"Dinnig Room",
+      "name":"Alaska Dining room",
+      "desc":"Enjoy maximum levels of comfort with our sleek and modern grey bedroom set. The padded headboard adds a touch of irresistible warmth and hominess to the bed.",
+      "price":119595,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Dinning-Alaska-8-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Dinning-Alaska-1-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Dinning-Alaska-5-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Dinning-Alaska-6-scaled-1.jpg"
+      ]
+    },
+    {
+      "id":3,
+      "category":"Dinnig Room",
+      "name":"Arizona",
+      "desc":"Enjoy maximum levels of comfort with our sleek and modern grey bedroom set. The padded headboard adds a touch of irresistible warmth and hominess to the bed.",
+      "price":143900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/IMG_0219-Edit_FullSize_S1080.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/IMG_0219-Edit_FullSize_S1080.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/IMG_0191-Edit_FullSize_S1080.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/IMG_0527-Edit_FullSize_S1080.jpg"
+      ]
+    },
+    {
+      "id":4,
+      "category":"Dinnig Room",
+      "name":"Arizona",
+      "desc":"The Cindi dining room set would definitely take your home to the highest levels of luxury. The gold accents on the server doors, the circle mirror and the table legs gives the set a touch of splendor that would impress your guests. It comes with 6 side padded dark grey chairs which are super comfy to sit on.",
+      "price":90900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/26.jpeg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/IMG_0219-Edit_FullSize_S1080.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/IMG_0191-Edit_FullSize_S1080.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/IMG_0527-Edit_FullSize_S1080.jpg"
+      ]
+    },
+    {
+      "id":5,
+      "category":"Dinnig Room",
+      "name":"Montana",
+      "desc":"The Cindi dining room set would definitely take your home to the highest levels of luxury. The gold accents on the server doors, the circle mirror and the table legs gives the set a touch of splendor that would impress your guests. It comes with 6 side padded dark grey chairs which are super comfy to sit on.",
+      "price":119900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/montana-dining-room-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/montana-dining-room-1-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/montana-dining-room-3-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/montana-dining-room-5-scaled-1.jpg"
+      ]
+    },
+    {
+      "id":6,
+      "category":"Dinnig Room",
+      "name":"suo",
+      "desc":"Invest in this artistic design dining room set and enjoy your meals with style. What is so special about this set is the long display corner cabinets which allow you to show off your antiques a The table is very unique featuring layered shelves at the bottom which can serve as extra display or storage units to give you more space for keeping your precious things.",
+      "price":118900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/MG_2379-re14-final-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/MG_2379-re14-final-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/MG_2276_1-re-final2-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/MG_2454_1-re-final-scaled-1.jpg"
+      ]
+    },
+    {
+      "id":7,
+      "category":"Dinnig Room",
+      "name":"Montana",
+      "desc":"Invest in this artistic design dining room set and enjoy your meals with style. What is so special about this set is the long display corner cabinets which allow you to show off your antiques a The table is very unique featuring layered shelves at the bottom which can serve as extra display or storage units to give you more space for keeping your precious things.",
+      "price":130900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/22.jpeg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Dinnnig-Room-Rano-2-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Dinnnig-Room-Rano-3-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Dinnnig-Room-Rano-4.png"
+      ]
+    },
+    {
+      "id":8,
+      "category":"Dinnig Room",
+      "name":"Montana",
+      "desc":"Invest in this artistic design dining room set and enjoy your meals with style. What is so special about this set is the long display corner cabinets which allow you to show off your antiques a The table is very unique featuring layered shelves at the bottom which can serve as extra display or storage units to give you more space for keeping your precious things.",
+      "price":130900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/22.jpeg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Dinnnig-Room-Rano-2-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Dinnnig-Room-Rano-3-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Dinnnig-Room-Rano-4.png"
+      ]
+    },
+    {
+      "id":9,
+      "category":"Dinnig Room",
+      "name":"New Gold",
+      "desc":"Invest in this artistic design dining room set and enjoy your meals with style. What is so special about this set is the long display corner cabinets which allow you to show off your antiques a The table is very unique featuring layered shelves at the bottom which can serve as extra display or storage units to give you more space for keeping your precious things.",
+      "price":90900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/new-gold-1-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/new-gold-1-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/new-gold-2-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/new-gold-scaled-1.jpg"
+      ]
+    },
+    {
+      "id":10,
+      "category":"Ranibow",
+      "name":"New Gold",
+      "desc":"Invest in this artistic design dining room set and enjoy your meals with style. What is so special about this set is the long display corner cabinets which allow you to show off your antiques a The table is very unique featuring layered shelves at the bottom which can serve as extra display or storage units to give you more space for keeping your precious things.",
+      "price":117000,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/IMG_0006-copy-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/IMG_0006-copy-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/IMG_0001_4-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/IMG_0005-scaled-2.jpg"
+      ]
+    }
+  ],
+  "trendingProducts":[
+        {
+      "id":1,
+      "category":"Living Rooms",
+      "name":"Albert s-2022",
+      "desc":"American model - local manufacture Manual mechan ism Rust-resistant stainless steel springs Treated nubuck leather fabric - washable Five years warranty.",
+      "price":50900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/albert-2-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/albert-3-scaled-1-600x720.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/albert-1-scaled-1-600x720.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/albert-2-scaled-1-600x720.jpg"
+      ]
+    },
+    {
+      "id":2,
+      "category":"Living Rooms",
+      "name":"Alice s-5278",
+      "desc":"American model - local manufacture Manual mechan ism Rust-resistant stainless steel springs Treated nubuck leather fabric - washable Five years warranty.",
+      "price":65400,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/L-shape-Alice-S-5278-Darg-Gray-1-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/L-shape-Alice-S-5278-Darg-Gray-8-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/L-shape-Alice-S-5278-Darg-Gray-1-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/L-shape-Alice-S-5278-Darg-Gray-9-scaled-1-600x720.jpg"
+      ]
+    },
+    {
+      "id":3,
+      "category":"Living Rooms",
+      "name":"Antonio egy s-012",
+      "desc":"American model - local manufacture Manual mechan ism Rust-resistant stainless steel springs Treated nubuck leather fabric - washable Five years warranty.",
+      "price":48900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/ZZZ_3026-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/ZZZ_3026-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/ZZZ_3035-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/ZZZ_3046-scaled-1.jpg"
+      ]
+    },
+    {
+      "id":4,
+      "category":"bedrooms",
+      "name":"Eight",
+      "desc":"The menus are made of beech wood and the countertops are natural 20-year warranty on wood The hinges and connectors have a five-year warranty",
+      "price":142900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/bed-room-Eight-23-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/bed-room-Eight-23-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Bed-Room-Eight-8-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/bed-room-Eight-21-scaled-1.jpg"
+      ]
+    },
+    {
+      "id":5,
+      "category":"bedrooms",
+      "name":"Genwa",
+      "desc":"The menus are made of beech wood and the countertops are natural 20-year warranty on wood The hinges and connectors have a five-year warranty",
+      "price":118900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Genwa-6-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Genwa-6-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Genwa-1-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Genwa-4-scaled-1.jpg"
+      ]
+    },
+    {
+      "id":6,
+      "category":"bedrooms",
+      "name":"Colombia",
+      "desc":"The menus are made of beech wood and the countertops are natural 20-year warranty on wood The hinges and connectors have a five-year warranty",
+      "price":119540,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Colombia-K-Bedroom-01-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Colombia-K-Bedroom7-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Colombia-K-Bedroom5-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Colombia-K-Bedroom4-scaled-1.jpg"
+      ]
+    },
+    {
+      "id":7,
+      "category":"Dinnig Room",
+      "name":"Montana",
+      "desc":"Invest in this artistic design dining room set and enjoy your meals with style. What is so special about this set is the long display corner cabinets which allow you to show off your antiques a The table is very unique featuring layered shelves at the bottom which can serve as extra display or storage units to give you more space for keeping your precious things.",
+      "price":130900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/22.jpeg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Dinnnig-Room-Rano-2-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Dinnnig-Room-Rano-3-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Dinnnig-Room-Rano-4.png"
+      ]
+    },
+    {
+      "id":8,
+      "category":"Dinnig Room",
+      "name":"Montana",
+      "desc":"Invest in this artistic design dining room set and enjoy your meals with style. What is so special about this set is the long display corner cabinets which allow you to show off your antiques a The table is very unique featuring layered shelves at the bottom which can serve as extra display or storage units to give you more space for keeping your precious things.",
+      "price":130900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/22.jpeg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Dinnnig-Room-Rano-2-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Dinnnig-Room-Rano-3-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/Dinnnig-Room-Rano-4.png"
+      ]
+    },
+    {
+      "id":9,
+      "category":"Dinnig Room",
+      "name":"New Gold",
+      "desc":"Invest in this artistic design dining room set and enjoy your meals with style. What is so special about this set is the long display corner cabinets which allow you to show off your antiques a The table is very unique featuring layered shelves at the bottom which can serve as extra display or storage units to give you more space for keeping your precious things.",
+      "price":90900,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/new-gold-1-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/new-gold-1-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/new-gold-2-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/new-gold-scaled-1.jpg"
+      ]
+    },
+    {
+      "id":10,
+      "category":"Ranibow",
+      "name":"New Gold",
+      "desc":"Invest in this artistic design dining room set and enjoy your meals with style. What is so special about this set is the long display corner cabinets which allow you to show off your antiques a The table is very unique featuring layered shelves at the bottom which can serve as extra display or storage units to give you more space for keeping your precious things.",
+      "price":117000,
+      "status":1,
+      "img":"https://americanfurnitureegypt.com/wp-content/uploads/2023/08/IMG_0006-copy-scaled-1.jpg",
+      "images":[
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/IMG_0006-copy-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/IMG_0001_4-scaled-1.jpg",
+        "https://americanfurnitureegypt.com/wp-content/uploads/2023/08/IMG_0005-scaled-2.jpg"
+      ]
+    }
+  ]
+}
